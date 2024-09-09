@@ -1,7 +1,7 @@
 {
   "id": "90268c90-701b-4d16-8637-e1a7d7f93cdb",
   "name": "APIs",
-  "publisher": "Default Publisher",
+  "publisher": "Ecibu Michael",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -22,7 +22,7 @@
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
-    "allowDownloadingSource": true,
+    "allowDownloadingSource": false,
     "includeSourceInSymbolFile": true
   },
   "runtime": "12.0",
